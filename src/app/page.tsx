@@ -64,15 +64,15 @@ export default function Page() {
           <img src="https://1.bp.blogspot.com/-jRienZ4Hk8w/XxA1gwv7LsI/AAAAAAAAXtg/9KRMrGR6YpYpxH5Zmyh6gSsBINb89hNrACLcBGAsYHQ/s1600/download%2B-%2B2020-07-16T180935.058.gif" />
           <div className="text-[2rem] font-bold text-center leading-tight md:text-5xl md:leading-snug bg-gradient-to-r from-green-600 via-yellow-600 to-red-600 inline-block text-transparent bg-clip-text">
             {/* Thanks! Ok yay */}
-            РЕАЛЬНО????!!! ПАСИБООООО...Я ПЛАЧУ!!
+            РЕАЛЬНО????!!! CПАСИБО...Я ПЛАЧУ!!
           </div>
         </>
       ) : (
         <>
-          <img className="h-[200px]" src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif" />
+          <img className="h-[200px]" src="https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif" />
           <h1 className="text-[2rem] text-center leading-tight md:text-5xl md:leading-snug bg-gradient-to-r from-green-600 via-yellow-600 to-red-600 inline-block text-transparent bg-clip-text">
             {/* Will you be my Valentine? */}
-            Пойдешь со мной куда-то?
+            Пойдешь со мной в кино?
           </h1>
           <div className="text-center space-y-5">
             <button
